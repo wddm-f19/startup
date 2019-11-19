@@ -57,7 +57,7 @@ cat > ~/Library/Application\ Support/Code/User/settings.json << EOF
   "editor.minimap.enabled": false,
   "editor.selectionHighlight": false,
   "editor.matchBrackets": false,
-  "editor.fontFamily": "'IBM Plex Mono', Menlo, Monaco, 'Courier New', monospace"
+  "editor.fontFamily": "'IBM Plex Mono', Menlo, Monaco, 'Courier New', monospace",
   "editor.copyWithSyntaxHighlighting": false,
   "workbench.colorTheme": "Material Theme Darker High Contrast",
   "workbench.colorCustomizations": {
